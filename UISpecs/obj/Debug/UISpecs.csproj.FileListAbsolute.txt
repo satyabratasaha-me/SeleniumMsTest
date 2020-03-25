@@ -1,0 +1,17 @@
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\UISpecs.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\UISpecs.pdb
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\WebDriver.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\WebDriver.Support.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\WebDriver.xml
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\bin\Debug\WebDriver.Support.xml
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\obj\Debug\UISpecs.dll
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\obj\Debug\UISpecs.pdb
+I:\my-work\SpecflowMSTest\MySolution\UISpecs\obj\Debug\UISpecs.csprojResolveAssemblyReference.cache
